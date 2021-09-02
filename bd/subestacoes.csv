@@ -1,0 +1,757 @@
+Nome,Concession,Ano_Opera,Tensao,longitude,latitude,g_conf
+SE Abdon Batista,ETSE - ETSE - EMPRESA DE TRANSMISSÃO SERRANA S.A,2014,525/230,-51.07219306,-27.57180736,0.21
+SE Abunã,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138,-65.16752247,-9.71103552,0.47
+SE Açailândia,EATE - Empresa Amazonense de Transmissão de Energia S.A.,2003,500,-47.403437,-4.91898605,0.54
+SE Acaraú II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2010,230/69,-40.11407421,-2.92766239,0.37
+SE Açu II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69,-36.90839717,-5.59277794,0.76
+SE Açu III,ATEXVII - ATE XVII TRANSMISSORA DE ENERGIA SA,2017,500/230,-37.02968156,-5.57882845,0.04
+SE Adrianópolis,FURNAS - Furnas Centrais Elétricas S.A.,1970,500/345/138,-43.47633645,-22.66579527,0.07
+SE Água Azul,AGUA AZUL SPE - SUBESTACAO AGUA AZUL SPE S.A.,2019,440/138,-46.40137444,-23.37504985,0.28
+SE Água Vermelha,AES TIETÊ - AES Tietê S.A.,1978,500/440/138,-50.348877,-19.860901,0.45
+SE Águas Lindas,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,1998,230/69,-48.27570866,-15.76753517,0.69
+SE Alegrete 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-55.72481046,-29.77749996,0.55
+SE Altamira,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-52.17962128,-3.13688171,0.06
+SE Anastácio,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138,-55.84166709,-20.56760084,0.43
+SE Andirá Leste,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2019,230/138,-50.19299229,-23.07730931,0.58
+SE Angelim,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-36.29460629,-8.89344329,0.97
+SE Angra dos Reis,FURNAS - Furnas Centrais Elétricas S.A.,-,500/138,-44.45594721,-23.00690292,0.85
+SE Anhanguera,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/230/88,-46.76829923,-23.4931605,0.8
+SE Aparecida,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-45.2550133,-22.86910151,0.97
+SE Apucarana,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/138/34;5,-51.44679836,-23.53451958,0.02
+SE Aracati II,BONS VENTOS - BONS VENTOS GERADORA DE ENERGIA S.A.,2010,230/34;5,-37.76327093,-4.48815009,0.26
+SE Araçuaí 2,TRANSIRAPÉ - COMPANHIA TRANSIRAPÉ DE TRANSMISSÃO,2007,230/138,-42.02005542,-16.83429287,0.59
+SE Arapiraca III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2013,230/69,-36.64958945,-9.78688035,0.68
+SE Araraquara CTP,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/138,-48.26392,-21.782681,0.25
+SE Araraquara FUR,FURNAS - Furnas Centrais Elétricas S.A.,1976,500,-48.25342601,-21.77400103,0.75
+SE Araraquara 2,ARARAQUARA - ARARAQUARA TRANSMISSORA DE ENERGIA S.A,2012,500/440,-48.34966944,-21.83356413,0.62
+SE Araras,IEP - INTERLIGAÇÃO ELÉTRICA PINHEIROS S.A,2010,440/138,-47.461887,-22.395742,0.01
+SE Arcoverde II,ARCOVERDE - ARCOVERDE TRANSMISSAO DE ENERGIA S.A.,2019,230/69,-37.00373269,-8.49920029,0.9
+SE Areia,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,1997,525/230/138,-51.600344,-25.969181,0.72
+SE Ariquemes,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-63.01232074,-9.92635945,0.56
+SE Assis,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,500/440/230,-50.35067744,-22.66873485,0.49
+SE Atibaia II,IEP - INTERLIGAÇÃO ELÉTRICA PINHEIROS S.A,2013,345/138,-46.55733825,-23.04707409,0.51
+SE Atlântida 2,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2007,230/69,-50.05462646,-29.78240967,0.86
+SE Avaré Nova,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2003,230,-48.932903,-23.06260683,0.65
+SE Barão de Cocais 3,CEMIG - Companhia Energética de Minas Gerais,2005,230,-43.441603,-19.853037,0.38
+SE Bagé 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/23/13;8,-54.07140261,-31.28880287,0.21
+SE Baixada Santista,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/230/138/88,-46.42041,-23.859619,0.76
+SE UHE Balbina,-,1989,230/13;8,-59.47998851,-1.91960684,0.3
+SE Balsas,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2011,230/69,-46.01802629,-7.55938293,0.43
+SE Banabuiú,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.91225214,-5.30520321,0.75
+SE Bandeirantes,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88/34;5,-46.69224337,-23.59887274,0.2
+SE Bandeirantes,FURNAS - Furnas Centrais Elétricas S.A.,1972,345/230,-49.23377755,-16.79311347,0.24
+SE Barbacena 2,CEMIG - Companhia Energética de Minas Gerais,1963,345/138/13;8,-43.75477339,-21.18575055,0.88
+SE Barra do Peixe,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138,-52.61653602,-16.49557387,0.32
+SE Barra Grande,ETAU - EMPRESA DE TRANSMISSÃO DO ALTO DO URUGUAI S/A,2005,230,-51.18445501,-27.76904745,0.45
+SE Barreiras,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69,-44.946594,-12.134399,0.41
+SE Barreiras II,ATEXVI - ATE XVI TRANSMISSORA DE ENERGIA SA,2017,500/230,-44.8106105,-12.17187984,0.4
+SE Barreiro 1,CEMIG - Companhia Energética de Minas Gerais,1964,345/138,-43.99137684,-20.0002707,0.94
+SE Barro Alto,FURNAS - Furnas Centrais Elétricas S.A.,1982,230/69,-48.92546506,-15.11940065,0.46
+SE Barro Branco,FURNAS - Furnas Centrais Elétricas S.A.,2013,345,-43.31799316,-20.43188476,0.29
+SE Bateias,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1999,525/230/138,-49.53264158,-25.41165169,0.48
+SE Bauru,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/138,-49.096008,-22.282776,0.91
+SE Biguaçu,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2008,525/230/138,-48.733391,-27.485025,0.84
+SE Blumenau,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525/230/138,-49.079214,-26.782302,0.49
+SE Boa Esperança,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-43.5639584,-6.72389015,0.84
+SE Boa Vista,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69/13;8,-60.7172411,2.9420675,0.79
+SE Bom Despacho 3,CEMIG - Companhia Energética de Minas Gerais,2004,500,-45.31068715,-19.79276048,0.59
+SE Bom Jardim,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/138/88/13;8,-46.99019091,-23.15177538,0.71
+SE Bom Jesus da Lapa II,TAESA - TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A,2003,500/230,-43.34340604,-13.30980403,0.33
+SE Bom Jesus II,SPEDRO - SAO PEDRO TRANSMISSORA DE ENERGIA S/A,2017,230/69,-44.31174264,-9.1035703,0.35
+SE Bom Nome,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69,-38.62754114,-7.997264,0.79
+SE Bongi,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69/13;8,-34.9281225,-8.06349474,0.75
+SE Botucatu,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/138,-48.437622,-22.9505,0.05
+SE Brasília Geral,FURNAS - Furnas Centrais Elétricas S.A.,1960,230/34;5,-47.95155162,-15.81254332,0.61
+SE Brasília Leste,VSBTE - VALE DO SAO BARTOLOMEU TRANSMISSORA DE ENERGIA S.A.,2017,500,-47.70724246,-15.80962473,0.85
+SE Brasilia Sul,FURNAS - Furnas Centrais Elétricas S.A.,1972,345/230/138,-48.06813669,-15.86248216,0.38
+SE Brotas de Macaubas,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2012,230,-42.34318352,-12.30847823,0.26
+SE Brumado II,AFLUENTE TRANSMISSÃO - Afluente Transmissão de Energia Elétrica SA,2002,230/138/69,-41.63583333,-14.21361111,0.68
+SE Imbirussú,PORTO PRIMAVERA - Porto Primavera Transmissora de Energia S/A.,2006,230/138,-54.7520149,-20.54726587,0.34
+SE Cabreuva,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/230/138/13;8,-47.11615813,-23.27746101,0.06
+SE Cachoeira Dourada,CDSA - Centrais Elétricas Cachoeira Dourada S/A,1959,230/138,-49.48671463,-18.50273008,0.08
+SE Cachoeira Paulista,FURNAS - Furnas Centrais Elétricas S.A.,1974,500/138,-45.03665837,-22.6298538,0.16
+SE Caetés II,EOL SANTA BRIGIDA I - VENTOS DE SANTA BRIGIDA I ENERGIAS RENOVAVEIS S.A,2015,230/34;5,-36.76001044,-8.84376926,0.56
+SE Camaçari II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230/69,-38.34495997,-12.61902491,0.8
+SE Camaçari IV,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2012,500/230,-38.34355571,-12.61772171,0.03
+SE Camaquã 1,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-51.81573231,-30.82792433,0.24
+SE Camaquã 3,TSBE - Transmissora Sul Brasileira de Energia S A,2014,230/69,-51.80991742,-30.80930751,0.42
+SE Campina Grande III,ETN - EXTREMOZ TRANSMISSORA DO NORDESTE,2015,500/230,-35.9801361,-7.25324093,0.54
+SE Campina Grande II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69/13;8,-35.90877836,-7.26670434,0.81
+SE Campinas,FURNAS - Furnas Centrais Elétricas S.A.,1971,500/345/138,-47.0048767,-22.77366239,0.12
+SE Campo Bom,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/23,-51.06597425,-29.6939704,0.99
+SE Campo do Assobio,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1998,230/138/13;8,-49.18303718,-25.66840559,0.51
+SE Campo Grande 2,PANTANAL TRA - PANTANAL TRANSMISSAO S.A.,2016,230/138,-54.49092128,-20.442094,0.23
+SE Campos,FURNAS - Furnas Centrais Elétricas S.A,1973,345/138,-41.337445,-21.71847014,0.44
+SE Campo Mourão,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138,-52.36761377,-24.07476567,0.89
+SE Campos Novos,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525/230/138,-51.4177012,-27.53928362,0.6
+SE UHE Cana Brava,ENGIE - ENGIE BRASIL ENERGIA SA,2002,230/13;8,-48.140547,-13.399596,0.06
+SE Canarana,STATE GRID - State Grid Brazil Holding Sa,2018,230/138,-52.29120698,-13.52447026,0.82
+SE Presidente Médici,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,2005,230/138,-53.6812486,-31.55113228,0.78
+SE Canoas 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,2002,230,-51.14391906,-29.87477914,0.28
+SE Canoinhas,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138,-50.40314097,-26.19641161,0.36
+SE Capão Bonito,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/138/13;8,-48.343079,-23.986694,0.72
+SE Capivara,DUKE ENERGY - Duke Energy Internacional - Geração Paranapanema,1977,440/138/14;4,-51.36031304,-22.65765743,0.74
+SE Carajás (PA),ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2006,230/138,-49.88848856,-5.980977,0.38
+SE Carajás (GO),CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,2009,230/138,-49.35241994,-16.71982524,0.77
+SE Cascavel,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1986,230/138/34;5/13;8,-53.456178,-24.995033,0.08
+SE Cascavel Oeste,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2001,525/230,-53.53319529,-25.02909701,0.06
+SE Catu,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.36361327,-12.39752335,0.39
+SE Cauípe,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.87081591,-3.6942585,0.86
+SE Caxias,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2001,525/230,-51.2011614,-29.27703068,0.55
+SE Caxias do Sul 5,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/13;8,-51.19154243,-29.13234567,0.63
+SE Caxias do Sul 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-51.15726309,-29.14224551,0.11
+SE Schincariol,-,-,230,-43.40849626,-4.87215061,0.43
+SE CBA 2,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2006,440/230,-47.29641348,-23.54082718,0.04
+SE Ceará Mirim II,ETN - EXTREMOZ TRANSMISSORA DO NORDESTE,2014,500/230,-35.45214311,-5.67335594,0.33
+SE Aimorés,CEMIG - Companhia Energética de Minas Gerais,2005,230,-41.02360371,-19.49999583,0.47
+SE Centro - CTR,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88/20,-46.648299,-23.5368,0.15
+SE Centro - CTT,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230,-46.721444,-23.513014,0.25
+SE Cerquilho III,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2014,230/138,-47.77442602,-23.14004565,0.15
+SE Chavantes,DUKE ENERGY - Duke Energy Internacional - Geração Paranapanema,1970,230/88,-49.728717,-23.126007,0.49
+SE Cícero Dantas,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.36720902,-10.59735137,0.06
+SE Cidade Industrial,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/23,-51.17999268,-29.89129639,0.47
+SE Cidade Industrial de Curitiba,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2003,230/69/13;8,-49.33271847,-25.52586406,0.12
+SE Cláudia,MATRINCHA - MATRINCHA TRANSMISSORA DE ENERGIA S A,2015,500,-55.33391193,-11.29019997,0.13
+SE Codemin,-,-,230,-48.33782853,-14.15866315,0.79
+SE Coelho Neto,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-42.98671356,-4.29813385,0.6
+SE Chapadão,ITATIM - Linhas de Transmissão Itatim Ldta,2011,230/138,-52.38907909,-18.91137369,0.03
+SE Coletora Porto Velho,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2011,500/230,-63.95852284,-8.91358909,0.27
+SE Colinas,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500,-48.45528975,-7.97009339,0.29
+SE Conselheiro Lafaiete,CEMIG - Companhia Energética de Minas Gerais,1955,345/138,-43.82332091,-20.66320254,0.12
+SE Conselheiro Pena,CEMIG - Companhia Energética de Minas Gerais,-,230/69/13;8,-41.48298275,-19.18044128,0.92
+SE Coremas,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230,-37.95573527,-7.01617897,0.97
+SE UHE Corumbá,FURNAS - Furnas Centrais Elétricas S.A.,1998,345/138,-48.54125238,-17.98674582,0.33
+SE Corumbá 2,LTC - LINHA DE TRANSMISSÃO CORUMBÁ,2013,230/138,-57.61957908,-19.03851033,0.5
+SE Coxipó,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138,-55.99776204,-15.62848878,0.55
+SE Cuiabá,AETE - AMAZÔNIA - ELETRONORTE TRANSMISSORA DE ENERGIA S.A.,2005,500/230,-55.85390978,-15.68594173,0.63
+SE Curitiba,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525/230,-49.31812903,-25.59322657,0.97
+SE Curitiba Leste,MARUMBI - MARUMBI TRANSMISSORA DE ENERGIA S.A,2015,525/230,-49.07982191,-25.57142372,0.45
+SE Delmiro Gouveia,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.51535335,-3.78736473,0.2
+SE Desterro,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2008,230/138,-48.51397835,-27.6702722,0.08
+SE Distrito Industrial de São José dos Pinhais,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/69/13;8,-49.12808169,-25.52959436,0.21
+SE Dona Francisca,DFESA - Dona Francisca Energética S.A.,2001,230/13;8,-53.28979492,-29.45098877,0.34
+SE Dourados,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138,-54.99194986,-22.26873127,0.47
+SE Edgard de Souza,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-46.907799,-23.45319,0
+SE Eldorado do Sul,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/23,-51.31855315,-30.01457495,0.77
+SE Eliseu Martins,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2006,230/69,-43.670279,-8.098532,0.32
+SE Emborcação,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,1982,500/138,-47.986511,-18.457275,0.5
+SE Embu-Guaçu,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/345/138/16/13;8,-46.79983169,-23.8446636,0.2
+SE Encruzo Novo,ENCRUZO NOVO - ENCRUZO NOVO TRANSMISSORA DE ENRGIA LTDA,2012,230/69,-45.85481618,-2.2181597,0.5
+SE UHE Luiz Carlos Barreto de Carvalho (Estreito),FURNAS - Furnas Centrais Elétricas S.A.,1970,345/13;8,-47.28466965,-20.15497695,0.65
+SE Estreito,LTT - LT Triângulo S.A.,2008,500/345,-47.17519772,-20.2604548,0.48
+SE Eunápolis,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138,-39.55001697,-16.33875296,0.83
+SE Extremoz II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2014,230/69,-35.30406637,-5.73817631,0.83
+SE Farroupilha,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/69,-51.32444556,-29.22053729,0.16
+SE Tomba,AFLUENTE TRANSMISSÃO - Afluente Transmissão de Energia Elétrica SA,-,230/69,-38.96793235,-12.28826091,0.16
+SE Fernão Dias,MSGT - MATA DE SANTA GENEBRA TRANSMISSAO S.A.,2020,500/440,-46.51469192,-23.05792868,0.3
+SE Fibraplac,FIBRAPLAC - Fibraplac Chapas de MDF Ltda,2003,230/13;8,-50.76690363,-29.89833743,0.48
+SE Figueira,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/138,-50.388431,-23.849377,0.27
+SE Firminópolis,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,1997,230/138,-50.32754954,-16.5918078,0.34
+SE Forquilhinha,IES - INTERLIGAÇÃO ELÉTRICA SUL S.A,2011,230/69,-49.52359311,-28.75114146,0.7
+SE Fortaleza II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-38.54352152,-3.83302535,0.66
+SE Foz do Chapecó,FOZ CHAPECÓ - Foz do Chapecó Energia S.A.,2010,230/138,-53.05288712,-27.13948468,0.47
+SE Foz do Chopim,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1998,230/138,-53.09613544,-25.52354672,0.16
+SE Foz do Iguaçu,FURNAS - Furnas Centrais Elétricas S.A.,1984,765/600/500/127,-54.5394228,-25.46783597,0.45
+SE Funil,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138,-39.46218989,-14.23271391,0.97
+SE Poços de Caldas,FURNAS - Furnas Centrais Elétricas S.A.,1963,500/345/138,-46.61351698,-21.79913734,0.47
+SE Garabi II,CIEN - Companhia de Interconexão Energética,2002,500,-55.67255053,-28.25329101,0.65
+SE Garanhuns II,IEG - INTERLIGAÇÃO ELÉTRICA GARANHUNS,2015,500/230,-36.40340038,-8.88261359,0.6
+SE Garibaldi 1,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-51.51223945,-29.23911515,0.46
+SE Gentio do Ouro II,TJMME - TRANSMISSORA JOSE MARIA DE MACEDO DE ELETRICIDADE S.A.,2018,500/230,-42.66661918,-11.28014446,0.4
+SE Gerdau SP,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2005,440/33/13;8,-47.08499913,-23.43818616,0.19
+SE Getulina,IEP - INTERLIGAÇÃO ELÉTRICA PINHEIROS S.A,2011,440/138,-49.838263,-21.855551,0.25
+SE Gilbués II,ATEXVI - ATE XVI TRANSMISSORA DE ENERGIA SA,2017,500/230/69,-45.34632674,-9.75302185,0.24
+SE Governador Mangabeira,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-39.03398057,-12.60721385,0.45
+SE Governador Valadares 2,CEMIG - Companhia Energética de Minas Gerais,1989,230/138/13;8,-41.98005788,-18.84958048,0.82
+SE Grajaú,FURNAS - Furnas Centrais Elétricas S.A.,1987,500/138,-43.26471006,-22.92774229,0.18
+SE Gralha Azul,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230,-49.35476443,-25.5868746,0.52
+SE Gravataí 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/23,-51.06533348,-29.88384355,0.67
+SE Gravataí 3,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2007,230/69,-50.96270752,-29.88769531,0.08
+SE Guaiba 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-51.38140739,-30.13019146,0.6
+SE Guaíra,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1984,230/138/34;5,-54.22606594,-24.10271025,0.4
+SE Guamá,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-48.44559999,-1.45858697,0.7
+SE Guarulhos,FURNAS - Furnas Centrais Elétricas S.A.,1963,345,-46.58539555,-23.44235809,0.96
+SE Guilman-Amorim,GUILMAN/AMORI - Consórcio GUILMAN/AMORIM,1997,230/13;8,-42.9236135,-19.67501729,0.04
+SE Gurupi,FURNAS - Furnas Centrais Elétricas S.A.,1999,500,-49.01182668,-11.73586458,0.67
+SE Henry Borden,EMAE - Empresa Metropolitana de Águas e Energia S.A,1956,230/13;8,-46.450684,-23.877686,0.99
+SE Ibicoara,TAESA - TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A,2003,500/230/138,-41.373901,-13.438904,0.12
+SE Ibiporã,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/138/34;5,-51.07697604,-23.29175565,0.68
+SE Ibiúna,FURNAS - Furnas Centrais Elétricas S.A.,1984,600/500/345/20,-47.104748,-23.667023,0.31
+SE Icó,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.881373,-6.409152,0.16
+SE Igaporã III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2015,500/230,-42.6126938,-13.98421936,0.78
+SE UHE Ilha Solteira,RPE - RIO PARANÁ ENERGIA,1973,440/138/14;4/13;8,-51.37037993,-20.38132593,0.01
+SE Imperatriz,CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S/A ELETRONORTE,-,230/500,-47.44402696,-5.49254467,1
+SE Integradora,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2008,230,-50.02190097,-6.43851664,0.75
+SE Interlagos,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/230,-46.68141935,-23.71008661,0.41
+SE Ipatinga 1,CEMIG - Companhia Energética de Minas Gerais,1971,230/13;8,-42.55767628,-19.43883997,0.51
+SE Irapé,TRANSLESTE - COMPANHIA TRANSLESTE DE TRANSMISSÃO,2005,345/230,-42.57143828,-16.72978823,0.78
+SE Irecê,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69/13;8,-41.80795987,-11.30877887,0.64
+SE Itá,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525,-52.40584444,-27.27305833,0.49
+SE Itabaiana,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-37.4560817,-10.66218388,0.88
+SE Itaberá,FURNAS - Furnas Centrais Elétricas S.A.,1982,750,-49.13202001,-23.95131071,0.55
+SE Itabira 2,CEMIG - Companhia Energética de Minas Gerais,-,230/69/13;8,-43.19970266,-19.59522559,0.42
+SE Itabira 4,CEMIG - Companhia Energética de Minas Gerais,2013,230,-43.28551224,-19.602629,0.43
+SE Ouro Preto 2,CEMIG - Companhia Energética de Minas Gerais,1988,500/345/138,-43.758301,-20.297791,0.97
+SE Itabirito 2,MONTES CLAROS - LINHAS DE TRANSMISSAO DE MONTES CLAROS LTDA,2014,500/345,-43.784726,-20.328156,0.16
+SE Itacaiúnas,ATE III - ATE III TRANSMISSORA DE ENERGIA S.A.,2008,500/230,-49.14727671,-5.45626792,0.29
+SE Itajaí,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2002,230/138,-48.78150492,-26.97316206,0.46
+SE Itajubá 3,CEMIG - Companhia Energética de Minas Gerais,2002,500/138,-45.51578569,-22.46815018,0.89
+SE Itapaci,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,-,230/69,-49.52373375,-14.94428676,0.44
+SE Itapeti,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/230/88/13;8,-46.17655686,-23.54732483,0.14
+SE Itararé II,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/138,-49.31276398,-24.10246633,0.65
+SE Itatiba,TRANSENERGIA SP - Transenergia São Paulo S.A.,2012,500/138,-46.90500307,-22.95702278,0.18
+SE Itaúba,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,1978,230/13;8,-53.23378624,-29.26047691,0.45
+SE Itiquira,ITIQUIRA - Itiquira Energética S/A,2002,230/13;8,-54.87486094,-17.07958671,0.65
+SE UHE Itumbiara,FURNAS - Furnas Centrais Elétricas S.A.,1980,500/345/230,-49.1141363,-18.40721994,0.32
+SE Itutinga,FURNAS - Furnas Centrais Elétricas S.A,1967,345,-44.62914427,-21.29615293,0.42
+SE Ivaiporã,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525,-51.67742708,-24.43101707,0.58
+SE Ivaiporã,FURNAS - Furnas Centrais Elétricas S.A.,1982,750,-51.67408781,-24.4205869,0.81
+SE Ivinhema 2,BRILHANTE - Brilhante Transmissora de Energia Ltda,2011,230/138,-53.57488709,-22.41790537,0.36
+SE Jacaracanga,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.48269123,-12.69696083,0.26
+SE Jacarepaguá,FURNAS - Furnas Centrais Elétricas S.A.,1967,345/138,-43.42125895,-22.92410224,0.52
+SE Jaguará,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,-,500/345,-47.43826803,-20.01284936,0.41
+SE Jaguariaíva,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1993,230/138/69/34;5,-49.69457105,-24.23384154,0.84
+SE Janaúba 3,MANTIQUEIRA TRANSMIS - MANTIQUEIRA TRANSMISSORA DE ENERGIA S.A.,2020,500/230,-43.32577268,-15.92344517,0.89
+SE Jandira,IESJ - Interligação Elétrica Serra do Japi S.A.,2012,440/88,-46.906601,-23.563037,0.45
+SE Jardim,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230/69,-37.15034521,-10.8827808,0.94
+SE Jaru,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-62.45444186,-10.42327359,0.28
+SE Jataí,TRANSENER RENOVAVEL - Transenergia Renovável S.A.,2012,230/138,-52.09103102,-17.78605461,0.78
+SE Jauru,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2003,500/230/138,-58.83109693,-15.38133648,0.03
+SE Jeceaba,CEMIG - Companhia Energética de Minas Gerais,2010,345/33,-43.97012114,-20.58341461,0.08
+SE Ji-Paraná,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138/69,-61.8944101,-10.86211644,0.79
+SE João Camara II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2014,230,-35.87485436,-5.30244556,0.88
+SE João Camara III,ETN - EXTREMOZ TRANSMISSORA DO NORDESTE,2014,500,-35.8861998,-5.38031869,0.29
+SE Joinville Norte,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2009,230/138,-48.90116618,-26.25183066,0.62
+SE Joinville,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138/69,-48.8875742,-26.29152065,0.97
+SE Jorge Lacerda A,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,1965,230/138/69,-48.96993076,-28.45103525,0.84
+SE Jorge Lacerda B,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,1979,230,-48.97056823,-28.45604273,0.12
+SE Jorge Teixeira,AMAZONAS GT - AMAZONAS GERAÇÃO E TRANSMISSÃO DE ENERGIA SA,2014,230/138/13;8,-59.89630127,-3.02069092,0.46
+SE Juazeiro II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-40.47660697,-9.48105512,0.81
+SE Juazeiro III,ODOYA - ODOYA TRANSMISSORA DE ENERGIA S A,2016,500/230,-40.51936608,-9.48667469,0.88
+SE Juiz de Fora 1,CEMIG - Companhia Energética de Minas Gerais,1966,345/138/13;8,-43.40277268,-21.7111134,0.55
+SE Jupiá,RPE - RIO PARANÁ ENERGIA,1969,440/138,-51.633058,-20.783105,0.46
+SE Jurumirim,DUKE ENERGY - Duke Energy Internacional - Geração Paranapanema,1962,230/138,-49.2303084,-23.20856086,0.78
+SE Jurupari,XINGU TRA - LINHAS DE XINGU TRANSMISSORA DE ENERGIA SA,2013,500/230,-52.7659,-1.5524,0.54
+SE Lages,STC - STC - Sistema de Transmissão Catarinense S.A.,2007,230/138,-50.33740375,-27.75630147,0.54
+SE Lagoa Vermelha 2,ETAU - EMPRESA DE TRANSMISSÃO DO ALTO DO URUGUAI S/A,2005,230/138,-51.52300672,-28.18543726,0.4
+SE Lajeado,INVESTCO - Investco S.A,2001,500/230,-48.366868,-9.747198,0.11
+SE Lajeado Grande,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2003,230/138,-50.55684314,-28.99062877,0.3
+SE Lajeado 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/13;8,-51.98447215,-29.46531939,0.6
+SE Laranjal,MACAPA TRA - LINHAS DE MACAPÁ TRANSMISSORA DE ENERGIA SA,2014,230/69,-52.48226008,-0.81196887,0.22
+SE Lechuga,MANAUS TR - MANAUS TRANSMISSORA DE ENERGIA S.A,2013,500/230/138,-60.01462762,-2.92023876,0.04
+SE Livramento 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-55.54278564,-30.86218262,0.63
+SE Londrina (ESUL),ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525/230,-51.14103089,-23.46318446,0.6
+SE Lucas do Rio Verde,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2012,230/138/13;8,-55.93013189,-13.01051913,0.53
+SE Luiz Gonzaga,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,1988,500,-38.3051399,-9.14464673,0.05
+SE Luziânia,SMTE - Serra da Mesa Transmissora de Energia S/A.,2008,500/138,-47.83192545,-16.34908633,0.41
+SE Macaé Merchant,FURNAS - Furnas Centrais Elétricas S.A.,2001,345/138,-41.87297084,-22.30534993,0.67
+SE Macapá,MACAPA TRA - LINHAS DE MACAPÁ TRANSMISSORA DE ENERGIA SA,2014,230/69,-51.12166667,0.09833333,0.6
+SE Maçambará,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-56.06652832,-29.15118408,0.41
+SE Macéio II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2019,230/69,-35.75023216,-9.52876608,0.48
+SE Machadinho,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2001,500,-51.78964472,-27.52739494,0
+SE Manaus,AMAZONAS GT - AMAZONAS GERAÇÃO E TRANSMISSÃO DE ENERGIA SA,-,230/69,-59.99139404,-3.08148193,0.58
+SE Marabá,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/69,-49.02405749,-5.1991066,0.63
+SE Marechal Rondon,MRTE - MARECHAL RONDON TRANSMISSORA DE ENERGIA SA,2016,440/138,-51.63876991,-20.79630312,0.61
+SE UHE Marimbondo,FURNAS - Furnas Centrais Elétricas S.A.,1975,500/345,-49.203491,-20.301208,0.93
+SE Marimbondo 2,GTE - Guaraciaba Transmissora de Energia S A,2016,500,-49.22214429,-20.25366976,0.38
+SE Maringá,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1984,230/138/34;5,-51.98715075,-23.44835399,0.06
+SE Marituba,MARITUBA - MARITUBA TRANSMISSÃO DE ENERGIA S A,2020,500/230/69,-48.3623045,-1.41081796,0.03
+SE Marmeleiro 2,TSLE - TRANSMISSORA SUL LITORÂNEA DE ENERGIA S.A.,2014,525,-52.99058867,-33.13970621,0.02
+SE Mascarenhas,EVRECY - EVRECY PARTICIPAÇÕES LTDA,2006,230/138,-40.91866832,-19.50326076,0.86
+SE Marechal Mascarenhas de Morais (Peixoto),FURNAS - Furnas Centrais Elétricas S.A.,1956,345/138,-47.06944722,-20.28619167,0.83
+SE Matatu,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.483027,-12.97754422,0.71
+SE Mesquita,CEMIG - Companhia Energética de Minas Gerais,-,500/230,-42.54793831,-19.4167229,0.75
+SE Messias,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-35.84227026,-9.40220245,0.33
+SE Miguel Reale,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88/20,-46.62527966,-23.56245204,0.84
+SE Milagres,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230/69,-38.93740634,-7.30701822,0.18
+SE Milton Fornasaro,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88,-46.75195278,-23.52819444,0.59
+SE Miracema,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/138,-48.52067209,-9.54154584,0.85
+SE Miranda II,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/138/69,-44.53500234,-3.56616574,0.03
+SE Mirassol II,IEP - INTERLIGAÇÃO ELÉTRICA PINHEIROS S.A,2011,440/138,-49.50216156,-20.86702287,0.25
+SE Mirueira,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-34.89127586,-7.95504627,0.72
+SE Mirueira II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2016,230/69,-34.89181718,-7.95611108,0.47
+SE Mogi,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-46.181981,-23.548427,0.71
+SE Mogi das Cruzes,FURNAS - Furnas Centrais Elétricas S.A.,1964,345/230,-46.16960562,-23.50368296,0.41
+SE Mogi Mirim 3,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/138,-47.06559364,-22.41989674,0.24
+SE Monte Claro,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2004,230,-51.53556713,-29.01318048,0.96
+SE Montes Claros 2,CEMIG - Companhia Energética de Minas Gerais,1973,345/138,-43.82480159,-16.67025681,0.74
+SE Morro Agudo,CPFL TRA MORRO AGUDO - CPFL TRANSMISSÃO MORRO AGUDO SA,2017,500/138,-48.15562587,-20.8651,0.49
+SE Morro do Chapéu II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2017,500/230,-41.3967886,-11.71392078,0.43
+SE Mossoró II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-37.35009432,-5.14948604,0.46
+SE Mussuré II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-34.89384289,-7.18166778,0.39
+SE N.S. do Socorro,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2019,230/69,-37.14641926,-10.87531417,0.57
+SE Narandiba,SE NARANDIBA - SE NARANDIBA S.A.,2011,230/69,-38.44505705,-12.95394385,0.26
+SE Natal II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-35.23965833,-5.808925,0.11
+SE Neves 1,CEMIG - Companhia Energética de Minas Gerais,1979,500/345/138/13;8,-44.10351562,-19.82348633,0.92
+SE Nilo Peçanha,LIGHT GT - LIGHT ENERGIA S.A,1953,230/138,-43.86391818,-22.69079544,0.14
+SE Niquelândia,FURNAS - Furnas Centrais Elétricas S.A.,1999,230/69,-48.48985563,-14.47261983,0.06
+SE Nobres,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2001,230/138,-56.29717073,-14.7251351,0.28
+SE Nordeste,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88,-46.38129032,-23.45421595,0.92
+SE Norte,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88,-46.558311,-23.483141,0.62
+SE Nova Era 2,CEMIG - Companhia Energética de Minas Gerais,-,230,-43.04707616,-19.70394314,0.98
+SE Nova Iguaçu,LTTE - Linhas de Taubaté Transmissora de Energia,2017,500/345/138,-43.53933647,-22.75358373,0.1
+SE Nova Mutum,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-56.07606179,-13.82825108,0.87
+SE Nova Ponte,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,1988,500,-47.700091,-19.134348,0.93
+SE Nova Porto Primavera,PORTO PRIMAVERA - Porto Primavera Transmissora de Energia S/A.,2006,440/230,-52.96498536,-22.48783798,0.79
+SE Nova Prata 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-51.61324676,-28.80686381,0.03
+SE Nova Santa Rita,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2006,525/230,-51.33536914,-29.82313659,0.21
+SE Oeste,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/88,-47.41220688,-23.44724098,0.28
+SE Olindina,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-38.38412132,-11.31801237,0.99
+SE Onça Puma,OURILANDIA - OURILANDIA DO NORTE TRANSMISSORA DE ENERGIA S.A.,-,230/138,-51.09179724,-6.57675094,0.79
+SE Oriximiná,MACAPA TRA - LINHAS DE MACAPÁ TRANSMISSORA DE ENERGIA SA,2013,500/230/138/15;5,-55.7239006,-1.58292015,0.76
+SE Padre Fialho,MONTES CLAROS - LINHAS DE TRANSMISSAO DE MONTES CLAROS LTDA,2013,345/138/20,-42.35791657,-20.35402005,0.87
+SE Palhoça (ELETROSUL),ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138,-48.69118056,-27.64137778,0.24
+SE Palmas,MIRACEMA - MIRACEMA TRANSMISSORA DE ENERGIA ELETRICA S/A,2019,230/138,-48.29459923,-10.17708677,0.99
+SE Palmeiras,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,1996,230/69,-49.94090445,-16.78428686,0.28
+SE Paracatu 4,SMTE - Serra da Mesa Transmissora de Energia S/A.,2008,500/138,-47.11292426,-17.06935954,0.07
+SE Paraguaçu Paulista 2,-,2015,230/88,-50.59194823,-22.43651865,0.01
+SE Paraíso (RN),CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2004,230/138,-36.00458056,-6.23656389,0.17
+SE Paranaíba,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,-,230/69,-49.21027207,-18.37177542,0.51
+SE Paranaíta,MATRINCHA - MATRINCHA TRANSMISSORA DE ENERGIA S A,2015,500/138,-56.84234384,-9.35355263,0.69
+SE Paranatinga,MATRINCHA - MATRINCHA TRANSMISSORA DE ENERGIA S A,2016,500/230,-54.43054358,-14.15834596,0.52
+SE Parigot Souza,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1996,230/138,-48.76196247,-25.25297911,0.11
+SE Passo Fundo,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,1973,230/138,-52.71880884,-27.48392212,0.66
+SE Passo Real,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,1973,230/138,-53.19061279,-29.01818848,0.92
+SE Pato Branco,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1989,230/138/34;5,-52.67247388,-26.21027902,0.35
+SE Pau Ferro,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230/69,-35.02067535,-7.85925158,0.84
+SE Paulo Afonso III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230,-38.19609348,-9.40152737,0.55
+SE Paulo Afonso IV,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-38.19962741,-9.41320076,0.82
+SE Peixe 2,INTESA - INTEGRAÇAO TRANSMISSORA DE ENERGIA S.A,2008,500,-48.55161278,-12.16303508,0.03
+SE Pelotas 3,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/13;8,-52.40763277,-31.72621658,0.15
+SE Penedo,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-36.56239882,-10.24285087,0.69
+SE Pici II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2005,230/69,-38.58320119,-3.74447407,0.05
+SE Picos,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-41.41404984,-7.11032472,0.39
+SE Pilarzinho,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/69/13;8,-49.27547841,-25.37171449,0.09
+SE Pimenta,CEMIG - Companhia Energética de Minas Gerais,-,345/138,-45.79341248,-20.46825867,0.91
+SE Pimenta Bueno,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2008,230/138,-61.13632388,-11.60686244,0.99
+SE Pinhalzinho 2,FOTE - FRONTEIRA OESTE TRANSMISSORA DE ENERGIA SA,2018,230/138,-53.02409346,-26.8229932,0.44
+SE Piraju,CBA - Companhia Brasileira de Aluminio,2002,230,-49.378338,-23.15428,0.68
+SE Pirapama II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-35.02774549,-8.27081339,0.63
+SE Pirapora 2,SPTE - Serra Paracatu Transmissora de Energia S/A.,2009,500/345/138,-44.869995,-17.339478,0.88
+SE Piratininga,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-46.677405,-23.698736,0.8
+SE Piratininga 2,IEP - INTERLIGAÇÃO ELÉTRICA PINHEIROS S.A,2011,345/88,-46.68274717,-23.70564618,0.84
+SE Pirineus,FURNAS - Furnas Centrais Elétricas S.A.,2006,230,-48.86619581,-16.38518127,0.27
+SE Piripiri,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69/13;8,-41.75477903,-4.28502109,0.59
+SE Pirituba,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-46.70939434,-23.5009728,0.22
+SE Vitória,FURNAS - Furnas Centrais Elétricas S.A.,1977,345/138,-40.29334475,-20.19342639,0.56
+SE Pituaçu,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.42055664,-12.93713412,0.34
+SE Planalto,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,-,230/69,-49.23137525,-17.81327866,0.54
+SE Poções II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2019,500/230,-40.37681449,-14.51740116,0.97
+SE Pólo Petroquímico,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/34;5,-51.38928575,-29.86973185,0.75
+SE Ponta Grossa Sul,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/138/34;5,-50.09952511,-25.17543796,0.23
+SE Ponta Grossa Norte,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/138/34;5,-50.14035278,-25.04460278,0.72
+SE Ponte de Pedra,ENGIE - ENGIE BRASIL ENERGIA SA,2005,230/13;8,-54.90837073,-17.58834335,0.08
+SE Porto Alegre 1,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/69,-51.17111111,-30.01666667,0.3
+SE Porto Alegre 8,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,2008,230/69,-51.14181946,-30.00875278,0.69
+SE Porto Alegre 4,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/13;8,-51.22821038,-30.04681315,0.05
+SE Porto Alegre 9,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/13;8,-51.1960398,-29.97109178,0.6
+SE Porto Alegre 6,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/13;8,-51.14263889,-30.06461111,0.01
+SE Porto Alegre 10,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/13;8,-51.19646245,-30.04707744,0.48
+SE Jardim Botânico,TESB - TRANSMISSORA DE ENERGIA SUL BRASIL,2019,230/69,-51.17232331,-30.04234639,0.46
+SE UHE Porto Colômbia,FURNAS - Furnas Centrais Elétricas S.A.,1973,345/138,-48.57483901,-20.12114472,0.96
+SE Porto Estrela,PORTO ESTRELA - Consorcio AHE Porto Estrela,2001,230/13;8,-42.66704106,-19.12009044,0.24
+SE Porto Franco,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138/69,-47.37686918,-6.34746722,0.49
+SE Porto Velho,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-63.81803761,-8.79735459,0.94
+SE Posto Fiscal,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2007,230/138/13;8,-48.56418973,-25.55298656,0
+SE Povo Novo,TSLE - TRANSMISSORA SUL LITORÂNEA DE ENERGIA S.A.,2014,525/230,-52.341142,-31.92911,0.66
+SE Presidente Dutra,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/69/13;8,-44.48127255,-5.26890327,0.61
+SE Quinta,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/69/13;8,-52.26827918,-32.0768003,0.66
+SE Quixadá,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2003,500,-38.92905097,-4.95331864,0.07
+SE Ramom Reberte Filho,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88,-46.52356111,-23.57940833,0.13
+SE Realeza Sul,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2017,230/138,-53.51695964,-25.78244227,0.24
+SE Recife II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230/13;8,-35.03570735,-8.11500632,0.06
+SE Ribeirão,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-35.39690892,-8.46933291,0.49
+SE Ribeirãozinho,ITE - Itumbiara Transmissora de Energia S/A.,2006,500/230,-52.63814007,-16.4740215,0.3
+SE Ribeirão Preto,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,500/440/138,-47.68800247,-21.20204831,0.83
+SE Ribeiro Gonçalves,ATE II - ATE II TRANSMISSORA DE ENERGIA S.A,2006,500/230/69,-45.20592045,-7.63258377,0.6
+SE Rio Branco I,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138/69/13;8,-67.73002442,-10.01078559,0.37
+SE Rio das Éguas,TAESA - TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A,2003,500,-46.17528791,-13.85421972,0.15
+SE Rio Largo II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-35.83836696,-9.50355685,0.46
+SE Rio Novo do Sul,ETC CAPIXABA - ETC - EMPRESA TRANSMISSORA CAPIXABA S.A.,2019,500/345/138,-40.88187777,-20.85752321,0.35
+SE Rio Verde Norte,ITE - Itumbiara Transmissora de Energia S/A.,2006,500,-50.86269637,-17.72277673,0.86
+SE Rondonópolis,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138/13;8,-54.59928039,-16.47043351,0.73
+SE Rurópolis,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138,-54.8970217,-4.0741809,0.29
+SE Russas II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-37.99557299,-4.94910417,0.55
+SE Salto,IESJ - Interligação Elétrica Serra do Japi S.A.,2012,440/88,-47.240628,-23.178925,0.34
+SE Salto Grande,DUKE ENERGY - Duke Energy Internacional - Geração Paranapanema,1958,230/88,-49.99884487,-22.90533747,0.75
+SE Salto Osório,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/69,-53.01281816,-25.53980555,0.23
+SE Salto Santiago,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,1980,525,-52.62237222,-25.63012778,0.88
+SE Samuel,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230,-63.46015511,-8.7529122,0.54
+SE Santa Bárbara d´Oeste,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/138/13;8,-47.41816462,-22.72590804,0.23
+SE Santa Cabeça,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-44.92934116,-22.65566815,0.56
+SE Santa Cruz 1,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/13;8,-52.41749041,-29.75071474,0.25
+SE Santa Maria,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138/69,-47.569521,-1.3423,0.58
+SE Santa Maria 3,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/69,-53.87580954,-29.68119258,0.82
+SE Santa Marta,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/69/44/13;8,-52.43033539,-28.28422025,0.41
+SE Santa Mônica,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2007,230/69,-49.14416609,-25.36373735,0.5
+SE Santa Rita II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2012,230/69,-35.009201,-7.156305,0.7
+SE Santa Rosa 1,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-54.45766792,-27.87711315,1
+SE Santana do Araguaia,ENERGISA PARÁ - ENERGISA PARÁ TRANSMISSORA DE ENERGIA I SA,2020,230/138,-50.39150714,-9.32654238,0.13
+SE Santo Angelo,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/345/138,-46.253906,-23.586121,0.83
+SE Santo Angelo 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-54.285773,-28.303457,0.37
+SE Santo Antônio de Jesus,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-39.2206271,-12.97277826,0.62
+SE São Borja 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/23,-55.99625585,-28.69036367,0.68
+SE São Gonçalo do Pará,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,1998,500/138,-44.84088634,-20.07318459,0.42
+SE São Gotardo 2,CEMIG - Companhia Energética de Minas Gerais,-,500/345/138,-46.01456146,-19.33750522,0.38
+SE São João do Piauí,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-42.22900407,-8.35814509,0.24
+SE São José,FURNAS - Furnas Centrais Elétricas S.A.,1993,500/138,-43.33228157,-22.74863135,0.74
+SE São José dos Campos,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,230/88,-45.88962307,-23.201825,0.2
+SE São Luis II,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/18;3,-44.31669729,-2.71668236,0.33
+SE São Mateus do Sul,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/34;5,-50.40201576,-25.85341727,0.98
+SE São Simão,CEMIG - Companhia Energética de Minas Gerais,-,500,-50.491821,-19.022095,0.94
+SE São Vicente do Sul,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-54.6971603,-29.69521568,0.94
+SE Sapeaçu,TAESA - TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A,2003,500/230,-39.18545167,-12.71716086,0.8
+SE Sarandi,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2006,230/138,-51.82683486,-23.44338671,0.47
+SE Scharlau,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/69/23,-51.14872902,-29.71747199,0.46
+SE Senhor do Bonfim II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/138/69,-40.188,-10.444,0.19
+SE UHE Serra da Mesa,FURNAS - Furnas Centrais Elétricas S.A.,1998,500/230/138,-48.30045957,-13.82690829,0.75
+SE Serra da Mesa 2,INTESA - INTEGRAÇAO TRANSMISSORA DE ENERGIA S.A,2008,500,-48.046387,-13.765503,0.05
+SE Sete Lagoas 4,SETE LAGOAS - SETE LAGOAS TRANSMISSORA DE ENERGIA LTDA,2014,345/138,-44.32477411,-19.51766877,0.29
+SE Siderópolis,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/69,-49.41119385,-28.60229492,0.54
+SE Sidrolândia 2,BRILHANTE - Brilhante Transmissora de Energia Ltda,2010,230/138,-54.92593926,-20.89489774,0.92
+SE Silves,MANAUS TR - MANAUS TRANSMISSORA DE ENERGIA S.A,2013,500/138/20,-58.2751023,-2.70885148,0.53
+SE Sobradinho,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,1979,500/230,-40.82781937,-9.43620761,0.98
+SE Sobral II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-40.3821959,-3.69990151,0.33
+SE Sobral III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-40.2985991,-3.69142208,0.49
+SE Sorriso,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-55.76318814,-12.57505558,0.63
+SE Suape II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2012,500/230,-35.04695838,-8.39017163,0.3
+SE Samambaia,FURNAS - Furnas Centrais Elétricas S.A.,1998,500/345/138,-48.17255086,-15.9250873,0.05
+SE Sul,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88,-46.52100683,-23.69937923,0.3
+SE Sumaré,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,440/138/13;8,-47.28673417,-22.8669339,0.8
+SE Taguaruçu,DUKE ENERGY - Duke Energy Internacional - Geração Paranapanema,1992,440/138,-52.00091246,-22.53862913,0.63
+SE Tapajós 2,EQUATORIAL 8 - EQUATORIAL TRANSMISSORA DE ENERGIA 8 SPE,2020,230/138,-54.67563041,-2.61660788,0.74
+SE Tapera 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,2005,230/69,-52.8645198,-28.66697564,0.54
+SE Taquara,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/13;8,-50.79482661,-29.65589484,0.46
+SE Taquaril,CEMIG - Companhia Energética de Minas Gerais,1976,345/230/138,-43.85208228,-19.93126393,0.77
+SE Tauá II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2007,230/69,-40.27534988,-6.00145856,0.19
+SE Taubaté,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,500/440/230/138,-45.58638776,-23.0632245,0.38
+SE Teresina,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69/13;8,-42.80079447,-5.12860483,0.34
+SE Fortaleza,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.54097222,-3.82847778,0.22
+SE Teresina III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2017,230/69,-42.687749,-5.088679,0.65
+SE Leste,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345/88,-46.46853169,-23.59551121,0.37
+SE Tijuco Preto,FURNAS - Furnas Centrais Elétricas S.A.,1982,750/500/345,-46.27317167,-23.709606,0.89
+SE Timóteo 1,CEMIG - Companhia Energética de Minas Gerais,-,230/13;8,-42.6361478,-19.53822465,0.29
+SE Acesita,CEMIG - Companhia Energética de Minas Gerais,-,230/69/13;8,-42.637447,-19.534507,0.35
+SE Tacaimbó,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-36.22304785,-8.33074291,0.08
+SE Transamazônica,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/34;5,-53.71512792,-3.70671979,0.33
+SE Três Irmãos,TIJOA - TIJOA PARTICIPAÇÕES E INVESTIMENTOS S.A.,1993,440/138,-51.30264897,-20.67409639,0.1
+SE Três Marias,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,1962,345/289/138,-45.25738525,-18.21289062,0.76
+SE Trindade,GOIAS TRA - GOIAS TRANSMISSAO SA,2013,500/230,-49.57726135,-16.61968713,0.51
+SE Tucuruí,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/138/69,-49.65461828,-3.82428585,0.59
+SE Uberaba,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/69/13;8,-49.20847671,-25.47678073,0.85
+SE Umbará,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/69,-49.31743233,-25.59204648,0.48
+SE Conversora Uruguaiana,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/132/13;8,-57.00500312,-29.80564219,0.32
+SE Charqueadas,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/69/34;5,-51.62249947,-29.95201326,0.01
+SE Utinga,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-48.3799491,-1.33547433,0.28
+SE Várzea da Palma 1,CEMIG - Companhia Energética de Minas Gerais,1965,345/138,-44.73709878,-17.59273716,0.27
+SE Venâncio Aires,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-52.15664226,-29.63398869,0.06
+SE Venda das Pedras,PEDRAS TRA - PEDRAS TRANSMISSORA DE ENERGIA LTDA,2010,345/138,-42.79445705,-22.73463091,0.13
+SE Veracel,-,-,230,-39.40819349,-16.08632792,0.21
+SE Vespasiano 2,CEMIG - Companhia Energética de Minas Gerais,2003,500/138,-43.90759471,-19.73903474,0.84
+SE Viamão 3,TESB - TRANSMISSORA DE ENERGIA SUL BRASIL,2016,230/69,-51.06407059,-30.036706,0.48
+SE Viana,FURNAS - Furnas Centrais Elétricas S.A.,2005,345/138,-40.43701905,-20.36991068,0.22
+SE Viana 2,MGE TRA - MGE TRANSMISSO SA,2014,500/345,-40.50755044,-20.38234434,0.62
+SE Videira,ATE VI - ATE VI - Campos Novos Transmissora de Energia S.A.,2009,230/138,-51.09230556,-26.9989558,0.48
+SE Vila do Conde,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/69/13;8,-48.73247051,-1.57258593,0.2
+SE Vilhena,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2008,230/69/34;5/22/13;8,-60.26440797,-12.71680016,0.39
+SE Volta Grande,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,1974,345/13;8,-48.22422443,-20.03994731,0.28
+SE Xanxerê,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/138,-52.39300997,-26.86328707,0.29
+SE Xavantes,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,-,345,-46.72338911,-23.65808796,0.21
+SE Xavantes,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,-,230/138,-49.25972069,-16.58052918,0.91
+SE Xingó,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/18,-37.79575208,-9.63297547,0.6
+SE Xingu,XINGU TRA - LINHAS DE XINGU TRANSMISSORA DE ENERGIA SA,2013,500/230,-51.69324984,-3.1065665,0.14
+SE Osório 2,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/138/69,-50.31495,-29.89543333,0.74
+SE Porto Alegre 13,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/13;8,-51.2243,-30.09555,0.58
+SE Miltônia III (Paragominas),Vale,-,230,-47.73634679,-3.25047852,0.65
+SE Londrina,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1984,230/138,-51.23796551,-23.27580654,0.49
+SE Segredo,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1992,500,-52.09640304,-25.78842718,0.94
+SE Miramar II,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2016,230/69,-48.48680384,-1.41100717,0.93
+SE Guarita,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69/23,-53.57068537,-27.61251815,0.19
+SE Canoas 1,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/23,-51.19050203,-29.94851908,0.26
+SE Complexo Industrial Automotivo de Gravataí,CEEE GT,-,230/23,-50.915563,-29.934883,0.41
+SE Campo Comprido,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,-,230/69/13;8,-49.369521,-25.431119,0.78
+SE Siderúrgica Guaíra,-,-,230,-49.4202,-25.566005,0.67
+SE Santa Quitéria,CAIUÁ TRANSMISSORA - CAIUÁ TRANSMISSORA DE ENERGIA S.A,2014,230/69/13;8,-49.311809,-25.461107,0.84
+SE Salto Caxias (Governador José Richa),COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1999,500,-53.4979,-25.543216,0.66
+SE Imperatriz,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,500/230/69/13;8,-47.47411745,-5.42271886,0.77
+SE São Luís I,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-44.255196,-2.559949,0.45
+SE São Luís III,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2010,230/69,-44.171464,-2.517166,0.85
+SE Uruguaiana 5,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,-,230/69,-57.00402708,-29.8068849,0.07
+SE Anhanguera,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,-,230/138/69,-49.235292,-16.790699,0.26
+SE Goiânia Leste,CELG - GT - CELG GERAÇÃO E TRANSMISSÃO S/A,-,230/13;8,-49.235896,-16.683882,0.45
+SE Carbocloro,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2004,230/138/13;8,-46.4143,-23.867119,0.05
+SE Petrobras Cubatão,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2009,230,-46.43136457,-23.87458234,0.64
+SE Bom Jesus da Lapa,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-43.352312,-13.30629,0.61
+SE João Monlevade 2,CEMIG - Companhia Energética de Minas Gerais,-,230/69,-43.13470677,-19.81679041,0.69
+SE Joairam,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2006,230/69,-34.981106,-8.081426,0.83
+SE Brasnorte,BRASNORTE - BRASNORTE TRANSMISSORA DE ENERGIA S.A.,2009,230/138,-58.069265,-12.875616,0.1
+SE Coteminas,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2009,230/13;8,-35.895701,-7.280042,0.96
+SE Cotegipe,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.42208537,-12.79434602,0.64
+SE Peritoró,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/69,-44.33094411,-4.36840975,0.76
+SE Repar,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2009,230/69,-49.362705,-25.579514,0.24
+SE UTE Fernando Gasparian,PETROBRAS - Petroleo Brasileiro S.A,-,230/13;8,-46.67870354,-23.69933829,0.93
+SE Ford,AFLUENTE TRANSMISSÃO - Afluente Transmissão de Energia Elétrica SA,-,230/13;8,-38.276895,-12.669555,0.96
+SE Itagibá,AFLUENTE TRANSMISSÃO - Afluente Transmissão de Energia Elétrica SA,2009,230,-39.716492,-14.234837,0.92
+SE Goianinha,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-35.08879,-7.58836,0.85
+SE Usiminas,-,-,230,-42.547803,-19.484756,0.44
+SE Itabaianinha,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-37.71873395,-11.28816433,0.47
+SE UHE Itapebi,AHE ITAPEBI - ITAPEBI GERAÇÃO DE ENERGIA S.A,2003,230/13;8,-39.584649,-15.969452,0.66
+SE UTE Atlântico,CSA - Thyssenkrupp CSA Siderurgica do Atlântico,2011,500/138/13;8,-43.742659,-22.90851,0.83
+SE Zona Oeste,FURNAS - Furnas Centrais Elétricas S.A.,2011,500/138,-43.71377651,-22.8737167,0.81
+SE Rio Verde,FURNAS - Furnas Centrais Elétricas S.A.,1975,230/138,-50.883696,-17.761175,0.35
+SE Rio do Sul,STC - STC - Sistema de Transmissão Catarinense S.A.,2007,230/138,-49.60897983,-27.16385655,0.42
+SE Verona,ETES - EMPRESA DE TRANSMISSÃO DO ESPÍRITO SANTO S.A.,2010,230/138,-40.454342,-18.743473,0.5
+SE Missões,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,230/69,-54.932692,-28.388359,0.13
+SE Sabará 3,ANGLOGOLD ASHANTI - ANGLOGOLD ASHANTI CÓRREGO DO SÍTIO MINERAÇÃO SA,2007,230/13;8,-43.73569761,-19.86751521,0.16
+SE Santo Angelo,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,-,525/230,-54.326067,-28.279768,0.03
+SE Sinop,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,-,230/138,-55.521638,-11.984033,0.07
+SE Teresina II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230/69,-42.726012,-5.257937,0.09
+SE UTE Uruguaiana,AES URUGUAIANA - AES Uruguaiana Ltda.,-,230,-56.999018,-29.764481,0.88
+SE UHE Boa Esperança,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,1970,230/69/13;8,-43.56697,-6.747786,0.98
+SE UTE Fortaleza,CGTF - Central Geradora Termelétrica Fortaleza S.A,2003,230/13;8,-38.86480266,-3.68220904,0.65
+SE UHE Governador Bento Munhoz da Rocha Netto,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,1980,500/16;5,-51.669157,-26.006926,0.76
+SE UHE Furnas,FURNAS - Furnas Centrais Elétricas S.A.,1963,345/138/15/13;8,-46.31915,-20.66678,0.24
+SE UHE Jaguará,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,1971,345/138/13;8,-47.438129,-20.019145,0.19
+SE UTE Mario Lago,PETROBRAS - Petroleo Brasileiro S.A,2001,345/13;8,-41.87641,-22.307885,0.24
+SE UTE Norte Fluminense,EDF (Electricité de France),-,345,-41.879597,-22.303306,0.63
+SE UTE Viana,TEVISA - TERMELÉTRICA VIANA S.A,2010,345/13;8,-40.437162,-20.379027,0.8
+SE Resende,FURNAS - Furnas Centrais Elétricas S.A.,2009,500/138,-44.515064,-22.500805,0.48
+SE UHE Manso,FURNAS - Furnas Centrais Elétricas S.A.,2000,230/13;8,-55.789015,-14.872788,0.16
+SE UHE Peixe Angical,ENERPEIXE - Enerpeixe S.A.,2006,500/138/13;8,-48.392584,-12.227442,0.95
+SE Presidente Figueiredo,AMAZONAS GT - AMAZONAS GERAÇÃO E TRANSMISSÃO DE ENERGIA SA,1998,230/13;8,-59.931728,-2.05071,0.48
+SE Gravataí,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,1993,525/230,-51.06315202,-29.88196939,0.59
+SE Jaguarari,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230,-39.85816098,-9.8657618,0.14
+SE Margem Direita,ITAIPU - ITAIPU Binacional,-,500/220,-54.60896536,-25.41944699,0.38
+SE São Bento Mineração,-,-,230,-43.47633213,-19.96873095,0.29
+SE Solvay,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2011,440/88,-46.374605,-23.768981,0.97
+SE Juína,EBTE TRA - EMPRESA BRASILEIRA DE TRANSMISSÃO DE ENERGIA S.A,2011,230/138,-58.74172779,-11.29302015,0.84
+SE UHE Dardanelos,AGUAS DA PEDRA - ENERGETICA AGUAS DA PEDRA S.A.,2011,230/34;5/13;8,-59.442883,-10.159843,0.82
+SE Juba,BRASNORTE - BRASNORTE TRANSMISSORA DE ENERGIA S.A.,2009,230/138,-57.914673,-14.835542,0.78
+SE Várzea Grande 2,ETVG - EMPRESA DE TRANSMISSAO DE VARZEA GRANDE SA ETVG,2012,230/138,-56.186346,-15.712022,0.39
+SE Parecis,EBTE TRA - EMPRESA BRASILEIRA DE TRANSMISSÃO DE ENERGIA S.A,2011,230/138,-58.96393551,-13.07190607,0.68
+SE UTE Cristiano Rocha,Multiner S.A.,2006,230,-60.032,-2.893,0.57
+SE Mauá III,AMAZONAS GT - AMAZONAS GERAÇÃO E TRANSMISSÃO DE ENERGIA SA,2014,230/138/69,-59.93068814,-3.11736528,0.18
+SE Inocência,ITATIM - Linhas de Transmissão Itatim Ldta,2011,230/138,-51.40034823,-19.65233672,0.01
+SE Ilha Solteira 2,ITATIM - Linhas de Transmissão Itatim Ldta,2011,440/230,-51.41715437,-20.31983383,0.62
+SE Mauá,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2012,230/34;5,-50.692616,-24.040113,0.18
+SE Foz do Iguaçu Norte,ATE VII - ATE VII - FOZ DO IGUAÇU TRANSMISSORA DE ENERGIA S.A.,2009,230/138,-54.54451,-25.487949,0.13
+SE UHE Santo Antonio do Jari,-,2014,230,-52.5171,-0.651794,0.51
+SE UHE Ferreira Gomes,-,2014,230,-51.19611567,0.8604738,0.67
+SE Xinguara II,ATLANTICO - ATLANTICO CONCESSIONARIA DE TRANSMISSAO DE ENERGIA DO BRASIL,2013,230/138,-49.92118778,-7.07292054,0.2
+SE Castanhal,ERTE - Empresa Regional de Transmissão de Energia S.A.,2012,230/138,-47.78671161,-1.29576642,0.52
+SE Marabá (Celpa),Celpa,-,230,-49.082767,-5.341783,0.05
+SE Alumar,-,-,230,-44.32947882,-2.70230991,1
+SE Pecém II,TDG DELMIRO GOUVEIA - TDG TRANSMISSORA DELMIRO GOUVEIA SA,2013,500/230,-38.87326557,-3.60070608,0.6
+SE Trairí,EOL TRAIRÍ - Central Eólica Trairí SA,2013,230/34;5,-39.295835,-3.24194759,0.08
+SE Quirinópolis 2,TRANSENER RENOVAVEL - Transenergia Renovável S.A.,2011,230/138,-50.577171,-18.48532,0.28
+SE Barra dos Coqueiros,COQUEIROS TRA - COQUEIROS TRANSMISSORA DE ENRGIA LTDA,2009,230,-50.986382,-18.72801,0.47
+SE UHE Caçu,GERDAU SA - Gerdau Acos Longos SA,2010,230/13;8,-51.147741,-18.533552,1
+SE Itaguaçu,COQUEIROS TRA - COQUEIROS TRANSMISSORA DE ENRGIA LTDA,2009,500/230,-50.670648,-19.008121,0.98
+SE Aquiraz II,TDG DELMIRO GOUVEIA - TDG TRANSMISSORA DELMIRO GOUVEIA SA,2013,230/69,-38.401518,-3.92758,0.2
+SE Edéia,TRANSENER RENOVAVEL - Transenergia Renovável S.A.,2012,230/138,-49.911295,-17.297255,0.49
+SE UHE São Salvador,ENGIE - ENGIE BRASIL ENERGIA SA,2009,230/13;8,-48.23522,-12.802677,0.42
+SE UHE Estreito,CE ESTREITO - Companhia Energética Estreito,2011,500/13;8,-47.460699,-6.582653,0.16
+SE UTE Suzano,SUZANO - Suzano Papel e Celulose SA,2014,230/34;5,-47.563461,-5.414823,0.13
+SE Geranorte,GERA MARANHAO - Gera Maranhão Geradora de Energia do Maranhão SA,2010,230/13;8,-44.557054,-3.566335,0.2
+SE Santo Antonio dos Lopes,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2012,500,-44.35107998,-4.82132507,0.65
+SE Quixeré,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2014,230,-37.785397,-5.034784,0.74
+SE UEE Formosa,-,2009,230,-41.03130617,-2.9186591,0.72
+SE Massapê II,SIIF - Siif Enèrgies do Brasil Ltda,2009,230,-40.342843,-3.562812,0.82
+SE UEE Icaraizinho,-,2009,230,-39.67895157,-3.01888241,0.17
+SE Floresta II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2014,230,-38.34236757,-8.74901627,0.77
+SE Tacaratu,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2014,230/34;5,-38.132565,-9.059572,0.92
+SE Icaraí,EOL ICARAÍ I - Central Geradora Eólica Icaraí I SA,2014,230/34;5,-39.60164308,-3.09505949,0.4
+SE Faísa,EOL FAÍSA I - Eólica Faísa I Geração e Comercialização de Energia SA,2014,230/34;5,-39.26042,-3.341375,0.68
+SE UTGN Jesus Soares Pereira,PETROBRAS - Petroleo Brasileiro S.A,2008,230/18,-36.81941348,-5.38065935,0.6
+SE Natal III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2012,230/69,-35.317336,-5.871564,0.31
+SE Areia Branca,EOL MAR E TERRA - Eólica Mar e Terra Geração e Comercialização,2014,230/34;5,-36.91629289,-4.96382843,0.98
+SE Miassaba 3,BRASVENTOS MIASSABA - Brasventos Miassaba 3 Geradora de Energia SA,2014,230/34;5,-36.4900276,-5.14731868,0.35
+SE União dos Ventos,EOL POTIGUAR - Energia Potiguar Geradora Eólica SA,2014,230/69/34;5,-35.8863304,-5.09343056,0.48
+SE Norfil,TAESA - TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S A,2014,230,-34.900439,-7.195936,0.11
+SE Rio Brilhante,BRILHANTE - Brilhante Transmissora de Energia Ltda,2010,230/138,-53.818454,-21.540157,0.8
+SE Umuarama Sul,COSTA OESTE - COSTA OESTE TRANSMISSORA DE ENERGIA SA,2014,230/138,-53.2867696,-23.79267122,0.34
+SE Cascavel Norte,CAIUÁ TRANSMISSORA - CAIUÁ TRANSMISSORA DE ENERGIA S.A,2014,230/138,-53.448101,-24.88369,0.36
+SE Cerro Chato,CERRO CHATO 1 - EOLICA CERRO CHATO I S.A.,2011,230/34;5,-55.70540105,-30.81444379,0.88
+SE Energia Pecém,PORTO PECEM - Porto Pecem Geracao de Energia SA,2010,230,-38.872653,-3.582011,0.36
+SE UTE Termoceará,PETROBRAS - Petroleo Brasileiro S.A,2002,230/13;8,-38.87152651,-3.69371037,0.53
+SE Carcará II,CARCARÁ II - Usina de Energia Eólica Carcará II S.A.,2014,230,-36.99659722,-4.98157371,0
+SE Galinhos,BRASVENTOS EOLO - Brasventos Eolo Gerador de Energia S.A,2014,230/34;5,-36.163675,-5.116888,0.4
+SE Alegria,NEW ENERGY - New Energy Options Ltda,2011,230/34;5,-36.383187,-5.12441,0.07
+SE Ijuí 2,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2013,230,-53.903695,-28.363766,0
+SE Epasa,EPASA - CENTRAIS ELÉTRICAS DA PARAÍBA S.A,2010,230,-34.921304,-7.20805454,0.14
+SE Aldeia,EPESA - CENTRAIS ELÉTRICAS DE PERNAMBUCO S.A.,2009,230,-35.018316,-7.858701,0.9
+SE Angelim II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,500/230,-36.297511,-8.895409,0.48
+SE Suape III,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2012,230/69,-35.016005,-8.397551,0.42
+SE Termopernambuco,TERMOPERNAMBUCO - Termopernambuco S/A,2004,230/18,-34.968779,-8.404373,0.12
+SE UTE Suape II,SUAPE II - Energética Suape II S.A.,2013,230/13;8,-35.025787,-8.357687,0.28
+SE Abreu e Lima,RNEST - Refinaria Abreu e Lima SA RNEST,2014,230/69/13;8,-35.03185247,-8.37364308,0.32
+SE Maceió (Napoleão Moreira),CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-35.785495,-9.578838,0.57
+SE Zebu,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,-,230/69,-38.201065,-9.357936,0.53
+SE Caxias 6,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2012,230/69,-51.12291059,-29.16186179,1
+SE UHE Pedra do Cavalo,Votorantim CimentosVOTORANTIM CIMENTOS - Votorantim Cimentos Ltda.,2004,230/13;8,-38.997823,-12.587414,0.83
+SE Nova Petrópolis 2,ELETROSUL - ELETROSUL Centrais Elétricas S.A.,2012,230/69,-51.00538524,-29.35211565,0.39
+SE UTE Muricy,PETROBRAS - Petroleo Brasileiro S.A,2009,230/13;8,-38.27775159,-12.66311291,0.33
+SE Pólo,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2009,230/69,-38.2741047,-12.65924746,0.77
+SE UTE Arembepe,Petrobras,2010,230,-38.302533,-12.69077,0.62
+SE Global,CANDEIAS - CANDEIAS ENERGIA S.A.,2010,230,-38.48172234,-12.7279125,0.1
+SE UTE Celso Furtado,PETROBRAS - Petroleo Brasileiro S.A,2002,230/21,-38.57118651,-12.70318296,0.03
+SE Scharlau 2,IES - INTERLIGAÇÃO ELÉTRICA SUL S.A,2010,230/138,-51.15097318,-29.71733177,0.97
+SE Castertech,CEEE GT - Companhia Estadual de Geração e Transmissão de Energia Elétrica,2009,230/13;8,-51.14797964,-29.14636948,0.6
+SE Lagoa dos Barros,VENTOS DO SUL - Ventos do Sul Energia S.A.,2006,230/34;5,-50.29461792,-29.9613765,0.94
+SE Baguari,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,2009,230,-42.123286,-19.013205,0.48
+SE Gaspar 2,ETSE - ETSE - EMPRESA DE TRANSMISSÃO SERRANA S.A,2015,230/138,-49.02139412,-26.87463499,0.88
+SE Chapadinha II,EDP MA II - EDP TRANSMISSÃO MA II S.A.,2020,230/69,-43.4071778,-3.79648561,0.97
+SE Santos Dumont 2,ESDE - Empresa Santos Dumont de Energia S.A.,2013,345/138,-43.534293,-21.474313,0.5
+SE UHE Itutinga,CEMIG - Companhia Energética de Minas Gerais,1987,345/138,-44.624866,-21.293008,0.74
+SE Acaraú III,ARGO - Argo Transmissão de Energia SA,2019,500/230,-40.1053932,-2.93670846,0.2
+SE Bacabeira,ARGO - Argo Transmissão de Energia SA,2019,500,-44.29611665,-3.02114832,0.1
+SE Parnaíba III,ARGO - Argo Transmissão de Energia SA,2019,500/230,-41.76443438,-3.12381147,0.26
+SE Tianguá II,ARGO - Argo Transmissão de Energia SA,2019,500/230,-41.02945861,-3.77197535,0.04
+SE Ibiapina II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2016,500/230,-41.18840428,-3.89944502,0.11
+SE Ourolândia II,TJMME - TRANSMISSORA JOSE MARIA DE MACEDO DE ELETRICIDADE S.A.,2018,500/230,-41.33972081,-10.8744055,0.22
+SE Milagres II,GIOVANNI - GIOVANNI SANGUINETTI TRANSMISSORA DE ENERGIA S A,2020,500,-38.924601,-7.344309,0.19
+SE Buritirama,EQUATORIAL 2 - Equatorial Transmissora 2 SPE SA,2020,500,-44.031349,-10.60020951,0.18
+SE Curral Novo do Piauí II,IRACEMA - IRACEMA TRANSMISSORA DE ENRGIA S.A,2015,500/230,-40.6386838,-8.03407875,0.08
+SE Governador Valadares 6,PARAÍSO TPE - TPE - TRANSMISSORA PARAISO DE ENERGIA S.A.,2020,500/230,-41.9719281,-18.80961054,0.29
+SE UHE Garibaldi,RIO CANOAS - RIO CANOAS ENERGIA SA,2013,230/13;8,-51.00347319,-27.6368872,0.48
+SE Terminal Rio,XRTE - XINGU RIO TRANSMISSORA DE ENERGIA S.A.,2019,800/500,-43.76939559,-22.6544702,0.87
+SE Linhares,FURNAS - Furnas Centrais Elétricas S.A.,2018,230/138,-40.10690367,-19.4027047,0.01
+SE São Mateus 2,-,2018,230/138,-39.89212286,-18.75493805,0.67
+SE GV do Brasil,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2015,230/34;5/13;8,-45.41080432,-22.92232322,0.27
+SE Toyota,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2012,230/13;8,-47.45723854,-23.37988136,0.37
+SE Castertech 2,-,-,230,-51.15756043,-29.14779968,0.85
+SE CBA 1,-,-,230,-47.26432318,-23.53772881,0.67
+SE Baixada Fluminense,FURNAS - Furnas Centrais Elétricas S.A.,2013,500,-43.64362648,-22.72030947,0.33
+SE UHE Baixo Iguaçu,BAIXO IGUAÇU - CONSORCIO EMPREENDEDOR BAIXO IGUACU,2019,230,-53.67796585,-25.50852139,0.95
+SE Teixeira de Freitas II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2019,230/138,-39.73031415,-17.56981143,0.15
+SE Pindaí II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2015,230/69,-42.61703526,-14.41939959,0.64
+SE Lajeado 3,SE VINEYARDS TRANSMISSAO DE ENERGIA S.A.,2019,230/69,-51.90204686,-29.43728179,0.36
+SE Mossoró IV,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2017,230/69,-37.29127798,-4.85397757,0.64
+SE Candelária 2,TESB - TRANSMISSORA DE ENERGIA SUL BRASIL,2020,230/69,-52.79558388,-29.64947258,0.62
+SE Restinga,TESB - TRANSMISSORA DE ENERGIA SUL BRASIL,2018,230/69,-51.16358525,-30.12430058,0.1
+SE Chapada III,VENTOS DE ST JOANA I - VENTOS DE SANTA JOANA I ENERGIAS RENOVAVEIS S.A,2016,230/34;5,-40.68301499,-7.39099364,0.1
+SE Chapada I,VSJ II - VENTOS DE SANTA JOANA II ENERGIAS RENOVAVEIS S.A.,2015,230/138,-40.71568936,-7.56211046,0.47
+SE Chapada II,VSJIX - VENTOS DE SANTA JOANA IX ENERGIAS RENOVÁVEIS S.A.,2015,230/34;5,-40.75836223,-7.47613296,0.05
+SE Touros,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2017,230/69,-35.65671445,-5.18181464,0.85
+SE Lagoa Nova II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2015,230/69,-36.52533204,-6.06195023,0.09
+SE Rio Grande II,SPEDRO - SAO PEDRO TRANSMISSORA DE ENERGIA S/A,2017,230/138,-45.49076594,-12.84397899,0.85
+SE Vega do Sul,-,-,230,-48.63030456,-26.29200921,0.98
+SE Piracicaba,CPFL PIRACICABA - CPFL TRANSMISSÃO PIRACICABA SA,2015,440/138,-47.57119747,-22.63435464,0.4
+SE Araripe III,V SANTO AUGUSTO I - VENTOS DE SANTO AUGUSTO I ENERGIA RENOVÁVEIS S.A.,2016,230,-40.67623217,-7.77134399,0.9
+SE Campo Formoso,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2015,230/34;5,-40.61325082,-10.58423848,0.58
+SE Klabin Monte Alegre,KLABIN - Klabin SA,-,230/34;5,-50.60165463,-24.29153939,0.71
+SE Igaporã II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2014,230/69,-42.62471909,-14.03024543,0.23
+SE Tabocas do Brejo Velho,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2017,230/34;5,-44.10760183,-12.58366651,0.41
+SE Parnaíba,PARNAIBA I GERAÇÃO - Parnaíba I Geração de Energia S.A.,2013,500,-44.35245685,-4.82075455,0.49
+SE Jaboatão II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2018,230/69,-34.986276,-8.17808656,0.53
+SE Riachão,QUEIROZ GALVÃO - Queiroz Galvão Energética S.A.,2015,230/34;5,-35.444508,-5.552206,0.23
+SE UTE Porto do Itaqui,ITAQUI GERACAO - ITAQUI GERACAO DE ENERGIA S/A,2013,230/19,-44.33723479,-2.58912435,0.87
+SE Cimentos Portland,-,-,230,-49.31783772,-25.20080871,0.94
+SE Taíba,TAÍBA ÁGUIA - Central Geradora Eólica Taíba Águia SA,2014,230/34;5,-38.88855898,-3.54657916,0.23
+SE Replan,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista,2016,440/138,-47.112452,-22.735032,0.76
+SE UTE Pernambuco III,UTE PERNAMBUCO III - TERMELÉTRICA PERNAMBUCO III S.A.,2013,230/13;8,-35.01989144,-7.86360203,0.01
+SE UTE Campina Grande,BORBOREMA ENERGETICA - Borborema Energética S.A.,-,230/13;8,-35.90840799,-7.29533855,0.81
+SE Nova Era Silicon,-,-,230,-43.03375591,-19.58729781,0.39
+SE UTE Euzébio da Rocha,PETROBRAS - Petroleo Brasileiro S.A,2009,230/13;8,-46.43205327,-23.8749343,0.96
+SE UTE Piratininga,BSE - Baixada Santista Energia S.A.,1954,230,-46.6777821,-23.69959559,0.4
+SE Nova Lima 6,CEMIG GT - CEMIG GERAÇÃO E TRANSMISSÃO S.A,2016,345/138,-43.86365994,-20.19090616,0.01
+SE Curitiba Norte,COPEL-GT - COPEL GERAÇÃO E TRANSMISSÃO S.A,2016,230/138,-49.31784366,-25.23455201,0.93
+SE Itarema V,ITAREMA V - EOLICA ITAREMA V S.A.,2016,230/34;5,-39.8893982,-2.96552085,0.14
+SE Gentio do Ouro I,ASSURUÁ II - PARQUE EOLICO ASSURUA II S.A.,2016,230/138/34;5,-42.66027593,-11.11700174,0.45
+SE UHE Teles Pires,-,-,500,-56.773427,-9.34110893,0.66
+SE UHE Salto,RIO VERDE - Rio Verde Energia S/A,2010,230/13;8,-51.16640798,-18.81013533,0.52
+SE UTE Caçu I,-,-,230,-51.00820553,-18.78953911,0.96
+SE UHE Barra dos Coqueiros,GERDAU SA - Gerdau Acos Longos SA,2010,230/13;8,-51.00182698,-18.72296389,0.63
+SE UHE Salto do Rio Verdinho,CBA - Companhia Brasileira de Aluminio,2010,230/13;8,-50.75171405,-19.14346565,0.58
+SE UHE Eng. José Luiz Müller de Godoy Pereira (Foz do Rio Claro),FOZ DO RIO CLARO - Foz do Rio Claro Energia S.A.,2010,230/13;8,-50.64635961,-19.12041359,0.89
+SE Pimental,NORTE ENERGIA SA - NORTE ENERGIA SA,2016,230/69,-51.89997605,-3.43828492,0.14
+SE Garabi I,CIEN - Companhia de Interconexão Energética,-,500,-55.6717653,-28.25492045,0.14
+SE Pontal,-,2016,230,-50.80241982,-30.27926839,0.77
+SE Paranatama,SERRA DAS VACAS I - EOLICA SERRA DAS VACAS I S.A.,2015,230/34;5,-36.73266039,-8.90821286,0.24
+SE São Clemente,VENTOS S CLEMENTE 1 - VENTOS DE SAO CLEMENTE I ENERGIAS RENOVAVEIS S.A,2016,230/34;5,-36.73613182,-8.75945144,0.83
+SE Candiota,ELETROBRAS - Centrais Elétricas Brasileiras S/A,2015,500/230,-53.69049431,-31.57102619,0.59
+SE São Basílio,EOL BRITE - Central Eólica Brite Ltda,2016,230/138,-40.58044411,-7.39763187,0.4
+SE Chapadinha I,V SANTA ALBERTINA - VENTOS DE SANTA ALBERTINA ENERGIAS RENOVÁVEIS S.A.,2017,230,-40.62514632,-8.00259817,0.46
+SE Lagoa do Carro,-,2020,230,-35.33985152,-7.86240972,0.33
+SE Babilônia,-,2018,230,-41.22882547,-10.9703317,0.54
+SE Cutia,ENERGIA EOLICA CUTIA - USINA DE ENERGIA EOLICA CUTIA S/A,2018,230/34;5,-35.92838845,-5.11953695,0.93
+SE Santo Inácio,SANTO INÁCIO III - CENTRAL EÓLICA SANTO INÁCIO III S A,2017,230,-37.30596006,-4.78693492,0.21
+SE Pedra Cheirosa,PEDRA CHEIROSA I - PEDRA CHEIROSA I ENERGIA S.A.,-,230,-39.73738349,-3.00318673,0.76
+SE Coletora Lapa,-,-,230,-43.35242549,-13.30991936,0.53
+SE Ventos da Bahia II,VENTOS DA BAHIA I - Parque Eólico Ventos da Bahia I,2018,230,-41.49045541,-11.98151374,0.29
+SE Delfina,EOL DELFINA A - ENEL GREEN POWER DELFINA A EÓLICA S.A.,2017,230,-40.93120052,-10.00766381,0.21
+SE Cristalândia,CRISTALANDIA I - ENEL GREEN POWER CRISTALANDIA I EOLICA S.A.,2017,230,-41.53276319,-14.03170889,0.52
+SE Nova Olinda,N OLINDA NORTE SOLAR - ENEL GREEN POWER NOVA OLINDA NORTE SOLAR S.A.,2017,500,-42.55642477,-8.19380943,0.47
+SE UTE Pampa Sul,-,-,525,-53.78074077,-31.45109043,0.89
+SE Paulino Neves,OMEGA EI 1 - OMEGA Energia e Implantação 1 SA,2017,500,-42.59615665,-2.72835054,0.35
+SE Casa Nova II,CHESF - CHESF - Companhia Hidro Elétrica do São Francisco,2017,230/34;5,-41.02807539,-9.2863429,0.14
+SE Amazonas,-,-,230/34;5,-36.9377529,-5.03144935,0.31
+SE São Miguel,SM GERAÇÃO - SM GERACAO DE ENERGIA EOLICA LTDA,2019,230,-35.78580237,-5.26755255,0.53
+SE Serra Azul,DAMASCENA - Enel Green Power Damascena Eólica SA,2015,230/34;5,-41.45804035,-11.86072991,0.42
+SE UHE Cachoeira Caldeirão,-,-,230,-51.29126962,0.85206859,0.33
+SE Pedra Branca,PEDRA BRANCA - PEDRA BRANCA SA,2013,230/34;5,-41.08979248,-9.85704559,0.03
+SE Morro do Chapéu Sul,MORRO DO CHAPÉU I - Enel Green Power Morro do Chapéu I Eólica SA,2018,230,-41.31553669,-11.5932467,0.86
+SE Poções III,EDTE - EDTE Empresa Diamantina de Transmissão de Energia S.A.,2019,500/230,-40.38498731,-14.51536784,0.52
+SE GPEXPAN,ACAUA ENERGIA - ACAUA ENERGIA S/A,2019,230,-42.63239655,-14.3950284,0.12
+SE UTE Prosperidade I,IMETAME - IMETAME ENERGIA LTDA,2018,230,-38.20849613,-12.49939402,0.88
+SE Medianeira Norte,-,2019,230,-54.09523374,-25.27184594,0.61
+SE Curitiba Centro,-,2019,230,-49.25319176,-25.43699417,0.97
+SE Salobo,-,-,230,-50.51461971,-5.78606394,0.46
+SE Serra Norte,ELETRONORTE - Centrais Elétricas do Norte do Brasil S/A,2012,230,-50.14243069,-6.02701614,0.58
+SE Mel,-,2020,500,-37.04919672,-5.13162498,0.43
+SE Araças,EOL DOS ARAÇAS - Centrais Eólicas dos Araças SA,2014,230,-42.60935817,-14.10285171,0.95
+SE Morrão,EOL MORRÃO - Centrais Elétricas Morrão SA,2014,230,-42.68148319,-14.12868012,0.63
+SE Caetité 1; 2 e 3,CAETITÉ 2 - Caetité 2 Energia Renovável S.A.,2014,230,-42.49332785,-14.18625357,0.6
+SE Caetité A,CAETITE A - EOLICA CAETITE A S.A.,2015,230,-42.47871541,-14.13809921,0.82
+SE Klabin Celulose,KLABIN - Klabin SA,2015,230/34;5,-50.73508939,-24.25268273,0.98
+SE Jandaia,-,2020,230,-37.83674591,-4.43902435,0.12
+SE São Gonçalo,EGP SAO GONCALO 1 - ENEL GREEN POWER SAO GONCALO 1 S.A.,2020,500,-45.29051057,-10.09783433,0.62
+SE UHE São Manoel,UHE SAO MANOEL - EMPRESA SÃO MANOEL SA,2017,500,-57.01870168,-9.18085082,0.75
+SE Cacimbas,BONS VENTOS CACIMBAS - GERADORA EOLICA BONS VENTOS DA SERRA 2 S.A.,2018,230,-41.04331222,-3.9068491,0.56
+SE Horizonte MP,HORIZONTE MP - ENEL GREEN POWER HORIZONTE MP SOLAR S.A.,2018,230,-44.08365262,-12.60440104,0.57
+SE Folha Larga,-,2020,230,-40.43746463,-10.35532538,0.44
+SE Juazeiro Solar,JUAZEIRO SOLAR I - Central Fotovoltaica Juazeiro Solar I SPE Ltda,2018,230/34;5,-40.48925374,-9.53319257,0.85
+SE Umburanas,UMBURANAS 1 - CENTRAIS EOLICAS UMBURANAS 1 S.A,2019,230/34;5,-41.56875767,-10.67168076,0.43
+SE Serra da Babilônia,-,2018,230,-41.32898757,-11.10329423,0.86
+SE Monte do Ronca,-,2020,230,-36.03208007,-5.17627375,0.68
+SE Folha Larga Sul,-,2020,230,-40.51698481,-10.4578568,0.11
+SE Arizona,-,2020,500,-41.00618701,-9.74899494,0.95
+SE Laranjeiras,-,2019,230,-42.66680293,-11.06786628,0.67
+SE Currais Novos II,RIALMA I - RIALMA TRANSMISSORA DE ENERGIA I S.A.,2013,230,-36.54528267,-6.26495124,0
+SE Rio Alto,COREMAS I - COREMAS I GERAÇÃO DE ENERGIA SPE SA,2018,230/34;5,-37.98948733,-6.96613682,0.9
+SE CQR,-,-,230,-38.30893561,-12.65318739,0.48
+SE UTE Camaçari,-,-,230,-38.34843793,-12.62152531,0.58
+SE Caraíba Metais,-,-,230,-38.36965558,-12.62182405,0.7
+SE Ferbasa,-,-,230,-38.34449894,-12.39918484,0.8
+SE Mineração Mirabela,-,-,230,-39.72726312,-14.17903301,0.85
+SE Dow,-,-,230,-38.47629588,-12.76567108,0.09
+SE Atlântica,-,-,230,-50.31825325,-30.30073539,0.66
+SE Calcário,-,-,230,-37.79170836,-5.03733638,0.19
+SE Rosana,-,-,230/138,-52.87564492,-22.60063588,0.39
+SE Alta Paulista,IE AGUAPEI - INTERLIGAÇÃO ELÉTRICA AGUAPEÍ S.A.,2021,440,-51.16051901,-21.64127441,0.24
+SE Baguaçu,IE AGUAPEI - INTERLIGAÇÃO ELÉTRICA AGUAPEÍ S.A.,2021,440,-50.28113246,-21.14530026,0.91
+SE Aventura II-V,Central Eólica Aventura II S.A.,2021,230,-35.7755222,-5.33467933,0.33
+SE Arinos 2,VEREDAS - VEREDAS TRANSMISSORA DE ELETRICIDADE S A,2021,500,-45.97180678,-15.75254124,0.79
+SE Padre Paraíso 2,PARAÍSO TPE - TPE - TRANSMISSORA PARAISO DE ENERGIA S.A.,2021,500,-41.48104293,-17.00844614,0.18
+SE Mutum,CAMINHO DO CAFÉ - TCC TRANSMISSORA CAMINHO DO CAFÉ S A,2021,500,-41.44854434,-19.89573286,0.18
+SE São Luís IV,EDP MA I - EDP TRANSMISSAO MA I S.A.,2021,500/230/69,-44.3109567,-2.67803287,0.48
+E-4,,,230,-37.84122739,-8.35564624,0.55
+E-6,,,230,-37.35865674,-8.06385617,0.04
+E-3,,,230,-38.16824052,-8.6588685,0.49
+E-2,,,230,-38.29795325,-8.70980633,0.63
+E-1,,,230,-38.36712079,-8.76967031,0.73
+N-3,,,230,-39.20218853,-8.10573737,0.48
+N-2,,,230,-39.33570079,-8.24090145,0.25
+N-1,,,230,-39.45992114,-8.52467347,0.86
+SE Pitombeira,,,230,-37.6473407,-4.60536894,0.23
+SE Campo Largo,CLWP EÓLICA I - CLWP EOLICA PARQUE I S.A,2018,230,-41.46620479,-10.4545942,0.4
+SE Bracell,,2021,440,-48.80846497,-22.53880077,0.75
+SE Queimada Nova II,SERTANEJA - TRANSMISSORA SERTANEJA DE ELETRICIDADE S A,2021,500/230,-41.42563605,-8.58936817,0.21
+SE Gameleira,,2021,230,-35.4893235,-5.24535277,0.62
+SE Tubarão Sul,EDP LITORAL SUL - EDP TRANSMISSÃO LITORAL SUL S.A.,2021,230/138/69,-49.10435001,-28.54088654,0.46
+SE Siderópolis 2,EDP ALIANCA - EDP TRANSMISSAO ALIANCA SC S.A.,2021,525/230,-49.40948056,-28.55645833,0.39
+SE Caxias II,ARTEON Z2 - ARTEON Z2 ENERGIA S.A.,2021,230/69,-43.4112608,-4.88354715,0.91
+SE Vinhedos,VINEYARDS - SE VINEYARDS TRANSMISSAO DE ENERGIA S.A.,2021,230/69,-51.47154137,-29.17546277,0
+SE Santa Luzia II,SANTA LUZIA - NEOENERGIA SANTA LUZIA TRANSMISSÃO DE ENERGIA S/A,2021,500,-36.98467635,-6.9127282,0.02
+SE Lorena,IE ITAPURA - INTERLIGAÇÃO ELÉTRICA ITAPURA S.A.,2021,500/230,-45.08757833,-22.76541783,0.36
+SE Dourados 2,EKTT 12-A - EKTT 12-A SERVICOS DE TRANSMISSAO DE ENERGIA ELETRICA SPE S.A.,2021,230/138,-54.69787028,-22.22525241,0.84
