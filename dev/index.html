@@ -6,15 +6,52 @@
     <script src="../node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
     <script src="../node_modules/lit/polyfill-support.js"></script>
     <script type="module" src="map/gamma-map.js"></script>
+    <script id="helper" data-name="helper" src="helper.js"></script>
     <style>
       p {
         border: solid 1px blue;
         padding: 8px;
       }
-
+      table, th, td {
+       border-collapse: collapse; 
+       border: 1px solid rgb(24, 42, 114);
+       text-align: center;
+       justify-content: center;
+      }
+      h3 {
+        font-size: 30px;
+        text-shadow: burlywood;
+        text-align: center;
+      }
+  
     </style>
   </head>
   <body>
-    <my-map></my-map>
+    <h3>Primeiro WEB Component GEO em LIT</h3>
+
+    <hr>
+
+    <table>
+      <tr>
+        <th>SE</th>
+        <th>Lat</th>
+        <th>Long</th>
+        <th>Tensao(V)</th>
+        <th>Risco(%)</th>
+        <th>G.Defeito(%)</th>
+      </tr>
+      <tr>
+        <td id="nome"></td>
+        <td id="lat"></td>
+        <td id="lon"></td>
+        <td id="tensao"></td>
+        <td id="risco"></td>
+        <td id="grau_defeito"></td>
+      </tr>
+    </table>
+
+    <hr>
+    
+    <gamma-map></gamma-map>
   </body>
 </html>

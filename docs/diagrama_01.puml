@@ -1,0 +1,62 @@
+@startuml
+class           Leaflet
+note left: Componentes da\nbiblioteca java leaflet
+class           GammaMap
+note left: Mostra os dados\nno mapa e seus\ncontroles GEO
+class           DataMap
+note top of DataMap: Converte os dados\ndo BD Gamma em\ndados geoJSON
+class           DataService << (S,orchid) >>
+note top of DataService: Busca dados do\nBD do Diane/SAP\nno Back End
+class           GMTableofContents
+class           GMLayers
+class           GMMapTiles
+class           GMSymbolgy
+class           GammaApp
+
+class GammaMap {
+ +convertGeoJsonToGeoData()
+}
+class DataMap {
+ +convertToGeoJSON()
+}
+
+class GMSymbolgy{
+ +radius
+ +fillColor
+ +color
+ +weight
+ +opacity
+ +fillOpacity
+}
+class GMTableofContents{
+    +idMap
+    +setLayers()
+}
+
+class GMLayers {
+ +name
+ +lat
+ +long
+ +zoom
+ +layers
+ +setSymbology()
+}
+class GMMapTiles{
+ +url
+ +id
+ +tileSize 
+ +zoomOffset
+ +attribution
+}
+
+Leaflet <-- GammaMap : usa <
+GammaMap <-- GammaApp : usa <
+GammaTable <- GammaApp : usa <
+GammaMap -> DataMap : usa >
+GammaMap --> GMTableofContents : usa >
+GMTableofContents -- GMLayers
+GMTableofContents -- GMMapTiles
+DataMap -> DataService : usa >
+GMLayers -- GMSymbolgy
+
+@enduml

@@ -35,8 +35,11 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "leaflet": "^1.7.1",
+    "leaflet-minimap": "^3.6.1",
+    "leaflet.layerscontrol-minimap": "^1.0.21",
     "lit": "^2.0.0-rc.1",
-    "lit-element": "^3.0.0-rc.1"
+    "lit-element": "^3.0.0-rc.1",
+    "mathjs": "^9.4.4"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",

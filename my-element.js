@@ -46,6 +46,8 @@ export class MyElement extends LitElement {
     this.count = 0;
   }
 
+
+  
   firstUpdated() {
     const mapEl = this.shadowRoot.querySelector('#mapid');
     let map = L.map(mapEl).setView([51.505, -0.09], 13);
